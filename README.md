@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+The app is made from NextJS, TailwindCSS and HeadlessUI. It is fully responsive.
+
 ## Getting Started
 Install all dependencies:
 
