@@ -12,6 +12,7 @@ export default function BikeItem({ bike }) {
             })}</p>
             <p className="p-2">Description:</p>
             <p className="text-center">{bike.Description}</p>
+            <button className="checkout">CHECKOUT</button>
         </div>
     )
 }

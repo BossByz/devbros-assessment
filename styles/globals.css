@@ -25,6 +25,17 @@ a {
   }
 }
 
+.checkout {
+  border-radius: 8px;
+  color: 	#303030;
+  font-weight: bolder;
+  padding: 8px;
+  margin: 8px;
+  border: 8px gray solid;
+  background-image: linear-gradient(white, darkgray);
+  outline: 2px #303030 solid;
+}
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
